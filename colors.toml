@@ -1,0 +1,36 @@
+# Blade Rainner
+# Inspired by a love for Blade Runner, and by the visuals of SpaceWave.
+# https://www.youtube.com/@spacewavecr
+# Rainy, foggy, cyberpunk. Dystopian but cozy.
+
+mode = "dark"
+
+accent = "#e0a062"
+selection = "#223038"
+muted = "#4a5f66"
+
+background = "#0e1417"
+dark_background = "#0a0f11"
+darker_background = "#06090a"
+lighter_background = "#1a2429"
+
+foreground = "#c6d2d2"
+dark_foreground = "#68797e"
+light_foreground = "#a9b8bb"
+bright_foreground = "#e4edec"
+
+red = "#e05c52"
+yellow = "#d9a441"
+orange = "#e08a4a"
+green = "#7fa66a"
+cyan = "#7ecfd4"
+blue = "#6aa7c4"
+magenta = "#c07fa8"
+brown = "#8a6b52"
+
+bright_red = "#f07168"
+bright_yellow = "#e8b857"
+bright_green = "#94bc7e"
+bright_cyan = "#96dfe3"
+bright_blue = "#82bbd6"
+bright_magenta = "#d394bc"

@@ -1,0 +1,4 @@
+# Working files live in ~/Pictures/blade-rainner, but keep these
+# ignored in case anything lands here by accident.
+out/
+references/
