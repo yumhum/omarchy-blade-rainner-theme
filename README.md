@@ -1,6 +1,6 @@
 # Blade Rainner
 
-Inspired by a love for Blade Runner, and by the visuals of
+Inspired by a love for Blade Runner, and by the visuals and music of
 [SpaceWave](https://www.youtube.com/@spacewavecr), a great ambient music
 composer.
 
