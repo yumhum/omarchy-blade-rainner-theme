@@ -6,6 +6,8 @@ composer.
 
 ![Blade Rainner](preview.png)
 
+![Blade Rainner with btop and a terminal](screenshots/desktop.png)
+
 Blade Rainner is a dark theme for [Omarchy](https://omarchy.org). It takes its
 mood from rainy cyberpunk cityscapes: near-black wet asphalt, teal fog in the
 middle distance, and a single amber lamp burning in it. Dystopian, but cozy.
